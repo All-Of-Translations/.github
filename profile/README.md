@@ -2,7 +2,7 @@
 
 >Translate ALL OF THEM!!!
 
-AOT是一支公共翻译队伍，终极目标是为大名鼎鼎的[All Of Fabric 5整合包]()提供100%的简体中文翻译。我们通过创建Fork和PR来翻译整合包中的各模组，同时维护一个库为AOF自定义内容（例如任务书等）提供翻译补丁。
+AOT是一支公共翻译队伍，终极目标是为大名鼎鼎的[All of Fabric 5整合包](https://www.curseforge.com/minecraft/modpacks/all-of-fabric-5)提供100%的简体中文翻译。我们通过创建Fork和PR来翻译整合包中的各模组，同时维护一个库为AOF自定义内容（例如任务书等）提供翻译补丁。
 
 项目总进度和计划表可以在[腾讯文档](https://docs.qq.com/sheet/DSWRmdlNPekxJTWZK)上查看。
 
